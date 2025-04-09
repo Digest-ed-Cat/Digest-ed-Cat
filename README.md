@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hi there 👋
 
+
+
+Welcome to my GitHub profile! Here, you'll find a collection of my work accumulated over the years. I'm also passionate about football, where I specialize in playing as both a defender and a goalkeeper.
+
+
+
+## My amazing cats 🐱
 <!--
 **Digest-ed-Cat/Digest-ed-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
