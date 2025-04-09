@@ -7,6 +7,10 @@ Welcome to my GitHub profile! Here, you'll find a collection of my work accumula
 
 
 ## My amazing cats 🐱
+
+### Vovere (Translates to squirrel)
+
+ <img src="data/Stills/Vovere1.jpeg" alt="Cat" width="200">
 <!--
 **Digest-ed-Cat/Digest-ed-Cat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
